@@ -1,3 +1,28 @@
+# Data Cleaning Project
+
+## Power BI Dashboard Visuals
+
+### 1. Dashboard Overview
+Here is the main dashboard showing the overall status of the data cleaning project:
+
+![Dashboard Overview](./Dashboard%20Overview.PNG)
+
+### 2. Age Eligibility
+This visual shows the data filtered by Age Eligibility for different products:
+
+![Age Eligibility](./Age%20Eligibility.PNG)
+
+### 3. Invalid Email Records
+This visual highlights the invalid emails detected in the dataset:
+
+![Invalid Email Records](./Invalid%20Email%20Visual.PNG)
+
+### 4. Invalid Phone Numbers
+The following table shows invalid phone numbers detected:
+
+![Invalid Phone Numbers](./Invalid%20Phone%20number%20visual.PNG)
+
+
 Data_Cleaning_Project
 A project focused on improving customer data accuracy by identifying and rectifying invalid emails, phone numbers, pseudonyms, fictitious address, age eligibility, and duplicate IDs using Power BI and Power Automate
 
